@@ -1,0 +1,26 @@
+{
+    "content": "Está hablando Galaxy!",
+    "embed": {
+        "color": 8223487,
+        "title": "Bienvenido al Server!",
+        "description": "Gracias por unirte!, Pasale a lo barrido, Tenemos bots divertidos",
+        "fields": [
+            {
+                "name": "Rythm",
+                "value": "Reproduce musica | Comandos: !play !Skip !Search !join",
+                "inline": false
+            },
+            {
+                "name": "Otro bot no detectado.",
+                "value": "--",
+                "inline": false
+            }
+        ],
+        "image": {
+            "url": "https://i.imgur.com/vuFT3yX.gif"
+        },
+        "footer": {
+            "text": "No spam pls"
+        }
+    }
+}
